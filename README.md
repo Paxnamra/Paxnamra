@@ -1,11 +1,13 @@
-### Hi there, I'm Magda 👋
+### Hi there, I'm Magda!
 
 - :cloud: I'm keen on cloud computing technologies especially AWS platform, growing interest in GCP as well 
 - :coffee: I know Java and a bit of its frameworks like Spring and Hibernate
 
-- :comet: I'm currently learning javascript to make it do awsome things in the cloud
-- :star: I'm discovering functional amazing programming world
+- :comet: I'm currently learning javascript to make it do awsome things in the cloud!
+- :star: I'm discovering amazing functional programming world
 - :smiling_imp: It helps me stay patient improving my understanding on how databases engines work
+
+### Idea loading... for more content here :)
 
 
 
