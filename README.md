@@ -1,5 +1,5 @@
 ### Hi there, I'm Magda!
-### I'm preparing static page https://paxnamra.github.io/ so you could get to know me better.
+### I'm preparing static resume page https://paxnamra.github.io/ so if it happens you are a recruiter, you will know what to do :)
 
 - :cloud: I'm keen on cloud computing technologies. Mostly AWS cloud provider but I'm growing interest in GCP as well 
 - :coffee: I know Java and a bit of its frameworks like Spring and Hibernate
